@@ -1,0 +1,1 @@
+INSERT INTO `member`(name, pw, uid, id) VALUES ('관리자', '1234', 'admin', 0);
